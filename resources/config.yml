@@ -1,0 +1,28 @@
+# Configuration file for FlashItem originaly made by David Flash
+
+# Item to open menu
+item: 345
+
+# Name of the item
+
+name: "§l§aNavigator"
+
+# Minigame is name that will appear in menu and chat
+
+minigame1: Minigame
+command1: say Nice
+
+minigame2: Minigame2
+command2: say Nice2 lol
+
+minigame3: Minigame3
+command3: say Just change this
+
+minigame4: Minigame4
+command4: say Cmon man
+
+minigame5: Minigame5
+command5: say I had to put 5 minutes into this
+
+minigame6: Minigame6
+command6: say Finally, got to config.yml
