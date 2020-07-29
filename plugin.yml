@@ -1,6 +1,6 @@
 ---
 name: FlashItem
-version: 1.0.0
+version: 1.0.1
 main: DavidFlash\FlashItem\Main
 api: 3.14.0
     
